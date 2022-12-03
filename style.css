@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(139, 0, 53);
+}
+h1{
+    background-color: dodgerblue;
+    text-align: center;
+    color:aliceblue;
+    font-size:20px;
+    padding-left:20px;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_emotion_name ,#result_emotion_name2  
+{
+  color:white;
+}
+.emotion_name
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.heading
+{
+  font-size:18px;
+  border-radius:10px;
+  letter-spacing:10px;
+}
+.label
+{
+  font-size:14px;
+  border-radius:10px;
+  background-color: #c0d3ff;
+  padding:6px;
+  color:green;
+}
